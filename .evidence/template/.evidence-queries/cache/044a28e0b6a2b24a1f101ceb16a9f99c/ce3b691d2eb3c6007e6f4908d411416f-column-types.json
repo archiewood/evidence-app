@@ -1,0 +1,1 @@
+[{"name":"order_month","evidenceType":"date","typeFidelity":"inferred"},{"name":"number_of_orders","evidenceType":"number","typeFidelity":"inferred"},{"name":"sales_usd0k","evidenceType":"number","typeFidelity":"inferred"},{"name":"average_order_value_usd2","evidenceType":"number","typeFidelity":"inferred"}]
