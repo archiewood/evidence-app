@@ -2,8 +2,7 @@
 
 Build polished data products with SQL and Markdown.
 
-## Run SQL
-
+## Run SQL from Archie
 
 Write queries using markdown code fences ` ``` `:
 
